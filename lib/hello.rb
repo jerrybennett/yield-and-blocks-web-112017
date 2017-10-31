@@ -1,6 +1,5 @@
-def hello_t
+def hello_t(arr)
 
 end
 
 # call your method here!
-
